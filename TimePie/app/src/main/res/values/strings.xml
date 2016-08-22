@@ -3,4 +3,6 @@
 
     <string name="dummy_button">Dummy Button</string>
     <string name="dummy_content">Time Pie</string>
+    <string name="chronometerTextView">Chronomètre</string>
+    <string name="chronometer_button">Lancer !</string>
 </resources>
